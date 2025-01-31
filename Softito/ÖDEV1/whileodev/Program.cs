@@ -11,53 +11,62 @@ namespace whileodev
         static void Main(string[] args)
         {
             #region çift tek
-            //int sayi;
-            //int cifttoplam = 0;
-            //int tektoplam = 0;
+            int sayi;
+            int cifttoplam = 0;
+            int tektoplam = 0;
 
-            //Console.WriteLine("Lütfen bir sayı girin:");
-            //sayi = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Lütfen bir sayı girin:");
+            sayi = Convert.ToInt32(Console.ReadLine());
 
-            //int i = 0;
-            //while (i <= sayi)
-            //{
-            //    cifttoplam += i;
-            //    Console.Write(i + " ");
-            //    i += 2;
-            //}
+            int i = 0;
+            while (i <= sayi)
+            {
+                cifttoplam += i;
+                Console.Write(i + " ");
+                i += 2;
+            }
 
-            //Console.WriteLine("\nÇift Sayıların toplamı: " + cifttoplam);
+            Console.WriteLine("\nÇift Sayıların toplamı: " + cifttoplam);
 
-            //int j = 1;
-            //while (j <= sayi)
-            //{
-            //    tektoplam += j;
-            //    Console.Write(j + " ");
-            //    j += 2;
-            //}
+            int j = 1;
+            while (j <= sayi)
+            {
+                tektoplam += j;
+                Console.Write(j + " ");
+                j += 2;
+            }
 
-            //Console.WriteLine("\nTek Sayıların toplamı: " + tektoplam);
+            Console.WriteLine("\nTek Sayıların toplamı: " + tektoplam);
 
-            //----------------------------------------------------------------
+//-------------------------------------------------------------------------------------------------------------
 
-            //Console.WriteLine("Bir sayı girin: ");
-            //int sayi = int.Parse(Console.ReadLine());
+            Console.WriteLine("Bir sayı girin: ");
+            int sayi = int.Parse(Console.ReadLine());
 
-            //int ciftToplam = 0;
-            //int tekToplam = 0;
+            int ciftToplam = 0;
+            int tekToplam = 0;
+            int i = 1;
 
-            //for (int i = 1; i <= sayi; i++)
-            //{
-            //    ciftToplam += (i % 2 == 0) ? i : 0;
-            //    tekToplam += (i % 2 != 0) ? i : 0;
-            //}
+            while (i <= sayi)
+            {
+                if (i % 2 == 0)
+                {
+                    ciftToplam += i;
+                }
+                else
+                {
+                    tekToplam += i;
+                }
+                i++;
+            }
 
-            //Console.WriteLine($"Çift sayılar toplamı: {ciftToplam}");
-            //Console.WriteLine($"Tek sayılar toplamı: {tekToplam}");
-            //Console.ReadLine();
+            Console.WriteLine($"Çift sayılar toplamı: {ciftToplam}");
+            Console.WriteLine($"Tek sayılar toplamı: {tekToplam}");
+            Console.ReadLine();
+
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region sayı kadar
             int sayi;
 
@@ -78,7 +87,7 @@ namespace whileodev
 
             Console.ReadLine();
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region * dan piramit
 
             int body = int.Parse(Console.ReadLine());
@@ -105,7 +114,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region * dan ok
 
             int body = int.Parse(Console.ReadLine());
@@ -149,7 +158,7 @@ namespace whileodev
                 i++;
             }
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region elmas *
 
             int bosluk;
@@ -215,7 +224,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region Fibonacci
 
             int a = 1;
@@ -234,7 +243,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region asal sayılar
 
             Console.Write("Sayı Gir: ");
@@ -265,7 +274,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region 1000 sayısının bölenleri
 
             int i = 1;
@@ -279,7 +288,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region  3 kere giriş hakkı  para çekme, para gönderme, bakiye kontrol, çıkış,
 
             int bakiye = 10000;
@@ -375,7 +384,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region 4 ve katı olan sayılar gelene kadar topla
 
             Console.WriteLine("sayi giriniz");
@@ -393,7 +402,7 @@ namespace whileodev
             Console.WriteLine("Toplam : " + toplam);
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region 10*10 tablo
 
             int i = 1;
@@ -415,7 +424,7 @@ namespace whileodev
             }
 
             #endregion
-
+//-------------------------------------------------------------------------------------------------------------
             #region 10 a kadar olan sayıları yazdır 8 olmasın
 
             int i = 1;
