@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\bin\Debug\whileodev.exe.config
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\bin\Debug\whileodev.exe
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\bin\Debug\whileodev.pdb
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\obj\Debug\whileodev.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\obj\Debug\whileodev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\obj\Debug\whileodev.exe
+C:\Users\Administrator\Desktop\Softito\ÖDEV1\whileodev\obj\Debug\whileodev.pdb
