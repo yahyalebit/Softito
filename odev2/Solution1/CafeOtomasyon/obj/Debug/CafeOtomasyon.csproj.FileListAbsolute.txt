@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe.config
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\bin\Debug\CafeOtomasyon.exe
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\bin\Debug\CafeOtomasyon.pdb
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\obj\Debug\CafeOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\obj\Debug\CafeOtomasyon.exe
+C:\Users\Administrator\Desktop\Softito\odev2\Solution1\CafeOtomasyon\obj\Debug\CafeOtomasyon.pdb
